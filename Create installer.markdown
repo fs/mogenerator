@@ -1,10 +1,12 @@
 # (in English) Create installer for Mogenerator 
 
 If missing utility **PackageMaker**:
+
 1. Download the necessary resources from [link](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg);
 2. Unpack and copy all the files in subfolders "/Applications/Utilities". 
 
 Create installation file for ** MOGenerator **:
+
 1. Clone project from the [repository](https://github.com/fs/mogenerator);
 2. Open the application ```Terminal```;
 3. Go to the folder with the cloned repository, ```cd path / to / mogenerator```;
@@ -16,10 +18,12 @@ Create installation file for ** MOGenerator **:
 # (на Русском) Создание установочника для Mogenerator
 
 Если отсутствует утулита **PackageMaker**:
+
 1. Скачиваем необходимые ресурсы по [ссылке](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg);
 2. Распаковываем и копируем все вложенные файлы в "/Applications/Utilities". 
 
 Создание установочного файла для **MOGenerator**:
+
 1. Клонируем проект из [репозитория](https://github.com/fs/mogenerator);
 2. Открываем приложение ```Терминал```;
 3. Переходим в папку с клонированным репозиторием ```cd path/to/mogenerator```;
