@@ -12,7 +12,7 @@ Create installation file for ** MOGenerator **:
 3. Go to the folder with the cloned repository, ```cd path / to / mogenerator```;
 4. Execute the script to generate the setup files using the command ```sh install / make_installer.command```;
 5. Enter the password and wait for the inscription ```[Process completed]```;
-6. If the script has been completed successfully, then in the same folder must create a new folder called "build", which contains the files "mogenerator - **.dmg" and "mogenerator - **.pkg" for install.
+6. If the script has been completed successfully, then in the same folder must create a new folder called "build", which contains the files "mogenerator-v.dmg" and "mogenerator-v.pkg" for install.
 
 
 # (на Русском) Создание установочника для Mogenerator
@@ -29,4 +29,4 @@ Create installation file for ** MOGenerator **:
 3. Переходим в папку с клонированным репозиторием ```cd path/to/mogenerator```;
 4. Выполняем скрипт для генерации установочных файлов через команду ```sh installer/make_installer.command```;
 5. Вводим пароль и ждем надписи ```[Процесс завершен]```;
-6. Если скрипт выполнился успешно, то в этой же папке должна создаться новая папка с названием "build", в которой находятся файлы "mogenerator-**.dmg" и "mogenerator-**.pkg" для установки. 
+6. Если скрипт выполнился успешно, то в этой же папке должна создаться новая папка с названием "build", в которой находятся файлы "mogenerator-v.dmg" и "mogenerator-v.pkg" для установки. 
