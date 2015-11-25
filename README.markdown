@@ -341,3 +341,5 @@ to current `.m` + `.mm` files). ([rentzsch](http://github.com/rentzsch/mogenerat
 * [NEW] Xmo'd version checking whitelists Xcode versions 3.1(.x) and 3.2(.x).
 
 * [NEW] Dropped ppc support for Xmo'd. May reconsider if folks yelp. ([rentzsch](http://github.com/rentzsch/mogenerator/commit/c6d0ef3fa308c7b1095daaa5364e1c944a772d2e))
+
+[![Flatstack](https://avatars0.githubusercontent.com/u/15136?v=2&s=200)](http://www.flatstack.com)
